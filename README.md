@@ -1,13 +1,31 @@
 # Hello, I'm Yassine Souissi 👋
 
-Pursuing a Bachelor's Degree in Computer Science student at TUM, I'm deeply passionate about AI and Large Language Models.
-I enjoy creating productivity apps and am always open to new ideas and collaborations. 
-Currently working on my Bachelor's Thesis:
-Enhancing Contextual Awareness of IRIS: Incorporating Lecture Content into a GPT-based Educational Chatbot on the Artemis Learning Platform.
-You can check the Bachelor Proposal here: 
-https://github.com/yassinsws/Bachelor_Thesis/blob/master/Proposal.pdf
+---
 
-If you have some ideas or just want to connect don't hesitate to hit me up on my LinkedIn: https://www.linkedin.com/in/yassine-souissi/
+### 🎓 Education
+- **Bachelor's Student in Computer Science**
+- **Technical University of Munich**
+
+---
+
+### 💡 Passion
+- **Artificial Intelligence**
+- **Software Development**
+- **Photography**
+
+---
+
+### 📄 Bachelor's Thesis
+- **Title:** Enhancing Contextual Awareness of IRIS: Incorporating Lecture Content into a GPT-based Educational Chatbot on the Artemis Learning Platform.
+- **[Bachelor Thesis Proposal](https://github.com/yassinsws/Bachelor_Thesis/blob/master/Proposal.pdf)**
+
+---
+
+### 📫 Connect with Me
+- **[LinkedIn: Yassine Souissi](https://www.linkedin.com/in/yassine-souissi/)**
+
+Feel free to reach out if you have ideas or just want to connect!
+
 
 ![](https://raw.githubusercontent.com/yassinsws/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yassinsws/github-stats/master/generated/overview.svg#gh-light-mode-only)
