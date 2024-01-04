@@ -21,10 +21,7 @@
 
 ---
 
-### 📫 Connect with Me
-- **[LinkedIn: Yassine Souissi](https://www.linkedin.com/in/yassine-souissi/)**
-
-Feel free to reach out if you have ideas or just want to connect!
+Let's connect!
 
 
 ![](https://raw.githubusercontent.com/yassinsws/github-stats/master/generated/overview.svg#gh-dark-mode-only)
