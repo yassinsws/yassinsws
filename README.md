@@ -3,8 +3,7 @@
 ---
 
 ### 🎓 Education
-- **Bachelor's Student in Computer Science**
-- **Technical University of Munich**
+- **Bachelor's Student in Computer Science at the Technical University of Munich**
 
 ---
 
